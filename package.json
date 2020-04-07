@@ -29,7 +29,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/object": "^8.0.5"
+		"@ctx-core/object": "^8.0.6"
 	},
 	"devDependencies": {
 		"typescript": "^3.8.3"
