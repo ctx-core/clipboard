@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/clipboard",
-	"version": "1.1.32",
+	"version": "1.1.33",
 	"description": "ctx-core clipboard",
 	"type": "module",
 	"main": "lib.js",
@@ -30,7 +30,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/object": "^8.0.11"
+		"@ctx-core/object": "^8.0.12"
 	},
 	"devDependencies": {
 		"typescript": "^3.9.3"
