@@ -1,39 +1,39 @@
 {
-	"name": "@ctx-core/clipboard",
-	"version": "2.0.4",
-	"description": "ctx-core clipboard",
-	"keywords": [
-		"ctx-core",
-		"clipboard"
-	],
-	"homepage": "https://github.com/ctx-core/clipboard#readme",
-	"bugs": {
-		"url": "https://github.com/ctx-core/clipboard/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/clipboard.git"
-	},
-	"license": "Apache-2.0",
-	"author": "Brian Takita",
-	"main": "./index.js",
-	"module": "./index.js",
-	"types": "./index.ts",
-	"scripts": {
-		"build": "npm run clean && npm run compile",
-		"clean": "rm -f tsconfig.tsbuildinfo",
-		"compile": "tsc -b",
-		"exec": "$@",
-		"prepublishOnly": "npm run compile"
-	},
-	"dependencies": {
-		"@ctx-core/object": "workspace:*"
-	},
-	"devDependencies": {
-		"typescript": "^4.0.2"
-	},
-	"publishConfig": {
-		"access": "public"
-	},
-	"gitHead": "08424d6b55ea88db45bd800c561a1d6a16d79f73"
+  "name": "@ctx-core/clipboard",
+  "version": "2.0.5",
+  "description": "ctx-core clipboard",
+  "keywords": [
+    "ctx-core",
+    "clipboard"
+  ],
+  "homepage": "https://github.com/ctx-core/clipboard#readme",
+  "bugs": {
+    "url": "https://github.com/ctx-core/clipboard/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctx-core/clipboard.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Brian Takita",
+  "main": "./index.js",
+  "module": "./index.js",
+  "types": "./index.ts",
+  "scripts": {
+    "build": "npm run clean && npm run compile",
+    "clean": "rm -f tsconfig.tsbuildinfo",
+    "compile": "tsc -b",
+    "exec": "$@",
+    "prepublishOnly": "npm run compile"
+  },
+  "dependencies": {
+    "@ctx-core/object": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "08424d6b55ea88db45bd800c561a1d6a16d79f73"
 }
