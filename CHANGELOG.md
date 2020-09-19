@@ -1,5 +1,16 @@
 # @ctx-core/clipboard
 
+## 3.0.0
+
+### Major Changes
+
+- Typescript strict checking
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@12.0.0
+
 ## 2.0.6
 
 ### Patch Changes
