@@ -1,5 +1,11 @@
 # @ctx-core/clipboard
 
+## 3.0.36
+
+### Patch Changes
+
+- @ctx-core/object@15.0.15
+
 ## 3.0.35
 
 ### Patch Changes
