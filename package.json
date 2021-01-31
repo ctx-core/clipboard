@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/clipboard",
-	"version": "3.0.42",
+	"version": "3.0.43",
 	"description": "ctx-core clipboard",
 	"keywords": [
 		"ctx-core",
@@ -27,7 +27,7 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^16.0.4"
+		"@ctx-core/object": "workspace:^16.1.0"
 	},
 	"devDependencies": {
 		"typescript": "^4.1.3"
