@@ -1,5 +1,16 @@
 # @ctx-core/clipboard
 
+## 4.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.6.0
+
 ## 4.0.37
 
 ### Patch Changes

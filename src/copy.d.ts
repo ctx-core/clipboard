@@ -1,1 +1,1 @@
-export declare function copy(value: any): void;
+export declare function copy(value: string): void;
