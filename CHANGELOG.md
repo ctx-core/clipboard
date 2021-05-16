@@ -1,5 +1,13 @@
 # @ctx-core/clipboard
 
+## 4.1.2
+
+### Patch Changes
+
+- .npmignore: + ~
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.6.2
+
 ## 4.1.1
 
 ### Patch Changes
