@@ -1,5 +1,16 @@
 # @ctx-core/clipboard
 
+## 4.3.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@18.2.0
+
 ## 4.2.1
 
 ### Patch Changes
