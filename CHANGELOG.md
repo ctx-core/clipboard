@@ -1,5 +1,11 @@
 # @ctx-core/clipboard
 
+## 4.3.3
+
+### Patch Changes
+
+- update dependencies
+
 ## 4.3.2
 
 ### Patch Changes
