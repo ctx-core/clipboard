@@ -1,5 +1,13 @@
 # @ctx-core/clipboard
 
+## 4.3.5
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+- Updated dependencies [undefined]
+  - @ctx-core/object@19.1.2
+
 ## 4.3.4
 
 ### Patch Changes
