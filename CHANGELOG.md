@@ -1,5 +1,13 @@
 # @ctx-core/clipboard
 
+## 5.0.6
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/object@20.0.7
+
 ## 5.0.5
 
 ### Patch Changes
