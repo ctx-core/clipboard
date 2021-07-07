@@ -1,5 +1,11 @@
 # @ctx-core/clipboard
 
+## 5.0.17
+
+### Patch Changes
+
+- update dependencies
+
 ## 5.0.16
 
 ### Patch Changes
