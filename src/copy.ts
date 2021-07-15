@@ -1,5 +1,5 @@
 import { assign } from '@ctx-core/object'
-export function copy(value:string) {
+export function copy(value:string):void {
 	const input:HTMLInputElement = document.createElement('input')
 	assign(input.style, {
 		position: 'absolute',

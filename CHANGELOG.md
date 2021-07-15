@@ -1,5 +1,11 @@
 # @ctx-core/clipboard
 
+## 6.0.3
+
+### Patch Changes
+
+- fix: module imports;types
+
 ## 6.0.2
 
 ### Patch Changes
