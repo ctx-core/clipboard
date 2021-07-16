@@ -1,5 +1,13 @@
 # @ctx-core/clipboard
 
+## 6.0.9
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.7
+
 ## 6.0.8
 
 ### Patch Changes
