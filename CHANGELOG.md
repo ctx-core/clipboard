@@ -1,5 +1,13 @@
 # @ctx-core/clipboard
 
+## 6.0.4
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.3
+
 ## 6.0.3
 
 ### Patch Changes
