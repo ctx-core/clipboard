@@ -1,5 +1,13 @@
 # @ctx-core/clipboard
 
+## 6.0.10
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.8
+
 ## 6.0.9
 
 ### Patch Changes
