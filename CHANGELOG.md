@@ -1,5 +1,13 @@
 # @ctx-core/clipboard
 
+## 6.0.13
+
+### Patch Changes
+
+- exports: + "package.json": "./package.json"
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.11
+
 ## 6.0.12
 
 ### Patch Changes
