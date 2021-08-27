@@ -1,5 +1,13 @@
 # @ctx-core/clipboard
 
+## 6.0.16
+
+### Patch Changes
+
+- typescript: ^4.3.5 -> ^4.4.2
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.17
+
 ## 6.0.15
 
 ### Patch Changes
