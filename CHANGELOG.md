@@ -1,5 +1,11 @@
 # @ctx-core/clipboard
 
+## 6.0.28
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+
 ## 6.0.27
 
 ### Patch Changes
