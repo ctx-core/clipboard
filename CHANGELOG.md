@@ -1,5 +1,14 @@
 # @ctx-core/clipboard
 
+## 6.0.29
+
+### Patch Changes
+
+- package.json: - module
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/object@22.0.0
+
 ## 6.0.28
 
 ### Patch Changes
