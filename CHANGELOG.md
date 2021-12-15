@@ -1,5 +1,13 @@
 # @ctx-core/clipboard
 
+## 6.0.32
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/object@22.0.3
+
 ## 6.0.31
 
 ### Patch Changes
