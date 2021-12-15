@@ -1,5 +1,13 @@
 # @ctx-core/clipboard
 
+## 6.0.33
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/object@22.0.4
+
 ## 6.0.32
 
 ### Patch Changes
