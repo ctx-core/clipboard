@@ -1,5 +1,13 @@
 # @ctx-core/clipboard
 
+## 6.0.36
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/object@22.0.7
+
 ## 6.0.35
 
 ### Patch Changes
