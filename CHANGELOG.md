@@ -1,5 +1,13 @@
 # @ctx-core/clipboard
 
+## 6.0.35
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/object@22.0.6
+
 ## 6.0.34
 
 ### Patch Changes
