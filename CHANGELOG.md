@@ -1,5 +1,11 @@
 # @ctx-core/clipboard
 
+## 6.0.38
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 6.0.37
 
 ### Patch Changes
