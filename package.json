@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/clipboard",
-	"version": "6.0.40",
+	"version": "6.0.41",
 	"description": "ctx-core clipboard",
 	"keywords": [
 		"ctx-core",
@@ -35,7 +35,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^22.0.11"
+		"@ctx-core/object": "workspace:^22.0.12"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
@@ -47,5 +47,6 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"svelte": "./lib/index.js"
+	"svelte": "./lib/index.js",
+	"sideEffects": false
 }
