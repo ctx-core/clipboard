@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/clipboard",
-	"version": "6.0.53",
+	"version": "6.0.54",
 	"description": "ctx-core clipboard",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/object": "^22.8.0"
+		"@ctx-core/object": "^22.8.2"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.59",
