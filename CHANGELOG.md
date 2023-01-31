@@ -1,5 +1,13 @@
 # @ctx-core/clipboard
 
+## 6.0.65
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/object@24.1.1
+
 ## 6.0.64
 
 ### Patch Changes
