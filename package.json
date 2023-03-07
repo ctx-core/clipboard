@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/clipboard",
-	"version": "6.1.16",
+	"version": "6.1.17",
 	"description": "ctx-core clipboard",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/object": "^27.1.4"
+		"@ctx-core/object": "^27.1.5"
 	},
 	"devDependencies": {
 		"c8": "^7.13.0",
