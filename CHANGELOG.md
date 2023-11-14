@@ -1,5 +1,14 @@
 # @ctx-core/clipboard
 
+## 6.2.1
+
+### Patch Changes
+
+- tsx: ^4.0.0 -> ^4.1.2
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/object@30.1.1
+
 ## 6.2.0
 
 ### Minor Changes
