@@ -1,5 +1,11 @@
 # @ctx-core/clipboard
 
+## 6.2.37
+
+### Patch Changes
+
+- @ctx-core/object: ^31.1.18 -> ^31.1.19
+
 ## 6.2.36
 
 ### Patch Changes
