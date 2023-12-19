@@ -1,5 +1,11 @@
 # @ctx-core/clipboard
 
+## 6.2.56
+
+### Patch Changes
+
+- tsx: ^4.6.2 -> ^4.7.0
+
 ## 6.2.55
 
 ### Patch Changes
