@@ -1,10 +1,9 @@
-import { assign } from '@ctx-core/object'
 /**
  * @param value{string}
  */
 export function copy(value) {
 	const input = document.createElement('input')
-	assign(input.style, {
+	Object.assign(input.style, {
 		position: 'absolute',
 		left: '-1000px',
 		top: '-1000px',

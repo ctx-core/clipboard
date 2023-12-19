@@ -1,5 +1,11 @@
 # @ctx-core/clipboard
 
+## 6.2.55
+
+### Patch Changes
+
+- consolidate dependencies
+
 ## 6.2.54
 
 ### Patch Changes

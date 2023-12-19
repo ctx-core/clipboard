@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/clipboard",
-	"version": "6.2.54",
+	"version": "6.2.55",
 	"description": "ctx-core clipboard",
 	"keywords": [
 		"ctx-core",
@@ -37,9 +37,7 @@
 		"test-unit": "tsx node_modules/uvu/bin.js . '\\.test\\.(ts|js)$'",
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
-	"dependencies": {
-		"@ctx-core/object": "^31.1.36"
-	},
+	"dependencies": {},
 	"devDependencies": {
 		"c8": "^8.0.1",
 		"check-dts": "^0.7.2",
