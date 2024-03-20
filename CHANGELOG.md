@@ -1,5 +1,11 @@
 # @ctx-core/clipboard
 
+## 6.2.58
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 6.2.57
 
 ### Patch Changes

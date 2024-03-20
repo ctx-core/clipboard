@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/clipboard",
-	"version": "6.2.57",
+	"version": "6.2.58",
 	"description": "ctx-core clipboard",
 	"keywords": [
 		"ctx-core",
@@ -15,7 +15,11 @@
 		"url": "https://github.com/ctx-core/clipboard.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-clipboard@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",
