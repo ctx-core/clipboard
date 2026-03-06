@@ -1,5 +1,11 @@
 # @ctx-core/clipboard
 
+## 6.2.60
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 6.2.59
 
 ### Patch Changes
